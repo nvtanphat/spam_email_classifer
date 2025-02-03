@@ -81,4 +81,3 @@ if st.button('Predict 🔍'):
         st.markdown('<h2 class="result">⚠️ Spam</h2>', unsafe_allow_html=True)
     else:
         st.markdown('<h2 class="result">✅ Not Spam</h2>', unsafe_allow_html=True)
-xxx
